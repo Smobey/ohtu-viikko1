@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /target
+=======
+*.tmp
+target/
+>>>>>>> 58376714f25a2ae6f2466ecfb0669e01ffa7c4c4
