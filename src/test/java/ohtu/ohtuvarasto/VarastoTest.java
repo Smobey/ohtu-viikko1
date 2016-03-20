@@ -90,7 +90,7 @@ public class VarastoTest {
     public void otetaanVarastostaLiikaa() {
         varasto.otaVarastosta(999);
 
-        assertEquals(11, varasto.paljonkoMahtuu(), vertailuTarkkuus);
+        assertEquals(10, varasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
 
     @Test
